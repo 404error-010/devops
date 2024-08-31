@@ -1,0 +1,235 @@
++ echo 'print list of s3 buckets'
+print list of s3 buckets
++ aws s3 ls
++ echo 'print list of ec2 instances'
+print list of ec2 instances
++ aws ec2 describe-instances
++ jq ' .Reservations[].Instances[].InstanceId'
+"i-0a51309f2f847d773"
++ echo 'print list of lambda functions'
+print list of lambda functions
++ aws lambda list-functions
+{
+    "Functions": []
+}
++ echo 'print the list of iam users'
+print the list of iam users
++ aws iam list-users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "demo-user",
+            "UserId": "AIDA4MTWHF3VZQWLRAL7D",
+            "Arn": "arn:aws:iam::851725201131:user/demo-user",
+            "CreateDate": "2024-08-18T03:02:12+00:00",
+            "PasswordLastUsed": "2024-08-18T03:12:17+00:00"
+        }
+    ]
+}
++ echo 'print list of s3 buckets'
+print list of s3 buckets
++ aws s3 ls
++ echo 'print list of ec2 instances'
+print list of ec2 instances
++ aws ec2 describe-instances
++ jq ' .Reservations[].Instances[].InstanceId'
+"i-0a51309f2f847d773"
++ echo 'print list of lambda functions'
+print list of lambda functions
++ aws lambda list-functions
+{
+    "Functions": []
+}
++ echo 'print the list of iam users'
+print the list of iam users
++ aws iam list-users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "demo-user",
+            "UserId": "AIDA4MTWHF3VZQWLRAL7D",
+            "Arn": "arn:aws:iam::851725201131:user/demo-user",
+            "CreateDate": "2024-08-18T03:02:12+00:00",
+            "PasswordLastUsed": "2024-08-18T03:12:17+00:00"
+        }
+    ]
+}
++ echo 'print list of s3 buckets'
+print list of s3 buckets
++ aws s3 ls
++ echo 'print list of ec2 instances'
+print list of ec2 instances
++ jq ' .Reservations[].Instances[].InstanceId'
++ aws ec2 describe-instances
+"i-0a51309f2f847d773"
++ echo 'print list of lambda functions'
+print list of lambda functions
++ aws lambda list-functions
+{
+    "Functions": []
+}
++ echo 'print the list of iam users'
+print the list of iam users
++ aws iam list-users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "demo-user",
+            "UserId": "AIDA4MTWHF3VZQWLRAL7D",
+            "Arn": "arn:aws:iam::851725201131:user/demo-user",
+            "CreateDate": "2024-08-18T03:02:12+00:00",
+            "PasswordLastUsed": "2024-08-18T03:12:17+00:00"
+        }
+    ]
+}
++ echo 'print list of s3 buckets'
+print list of s3 buckets
++ aws s3 ls
++ echo 'print list of ec2 instances'
+print list of ec2 instances
++ aws ec2 describe-instances
++ jq ' .Reservations[].Instances[].InstanceId'
+"i-0a51309f2f847d773"
++ echo 'print list of lambda functions'
+print list of lambda functions
++ aws lambda list-functions
+{
+    "Functions": []
+}
++ echo 'print the list of iam users'
+print the list of iam users
++ aws iam list-users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "demo-user",
+            "UserId": "AIDA4MTWHF3VZQWLRAL7D",
+            "Arn": "arn:aws:iam::851725201131:user/demo-user",
+            "CreateDate": "2024-08-18T03:02:12+00:00",
+            "PasswordLastUsed": "2024-08-18T03:12:17+00:00"
+        }
+    ]
+}
++ echo 'print list of s3 buckets'
+print list of s3 buckets
++ aws s3 ls
++ echo 'print list of ec2 instances'
+print list of ec2 instances
++ aws ec2 describe-instances
++ jq ' .Reservations[].Instances[].InstanceId'
+"i-0a51309f2f847d773"
++ echo 'print list of lambda functions'
+print list of lambda functions
++ aws lambda list-functions
+{
+    "Functions": []
+}
++ echo 'print the list of iam users'
+print the list of iam users
++ aws iam list-users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "demo-user",
+            "UserId": "AIDA4MTWHF3VZQWLRAL7D",
+            "Arn": "arn:aws:iam::851725201131:user/demo-user",
+            "CreateDate": "2024-08-18T03:02:12+00:00",
+            "PasswordLastUsed": "2024-08-18T03:12:17+00:00"
+        }
+    ]
+}
++ echo 'print list of s3 buckets'
+print list of s3 buckets
++ aws s3 ls
++ echo 'print list of ec2 instances'
+print list of ec2 instances
++ aws ec2 describe-instances
++ jq ' .Reservations[].Instances[].InstanceId'
+"i-0a51309f2f847d773"
++ echo 'print list of lambda functions'
+print list of lambda functions
++ aws lambda list-functions
+{
+    "Functions": []
+}
++ echo 'print the list of iam users'
+print the list of iam users
++ aws iam list-users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "demo-user",
+            "UserId": "AIDA4MTWHF3VZQWLRAL7D",
+            "Arn": "arn:aws:iam::851725201131:user/demo-user",
+            "CreateDate": "2024-08-18T03:02:12+00:00",
+            "PasswordLastUsed": "2024-08-18T03:12:17+00:00"
+        }
+    ]
+}
+-bash: */5: No such file or directory
+Current date and time: 2024-08-26 01:10:01
++ echo 'print list of s3 buckets'
+print list of s3 buckets
++ aws s3 ls
++ echo 'print list of ec2 instances'
+print list of ec2 instances
++ aws ec2 describe-instances
++ jq ' .Reservations[].Instances[].InstanceId'
+"i-0a51309f2f847d773"
++ echo 'print list of lambda functions'
+print list of lambda functions
++ aws lambda list-functions
+{
+    "Functions": []
+}
++ echo 'print the list of iam users'
+print the list of iam users
++ aws iam list-users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "demo-user",
+            "UserId": "AIDA4MTWHF3VZQWLRAL7D",
+            "Arn": "arn:aws:iam::851725201131:user/demo-user",
+            "CreateDate": "2024-08-18T03:02:12+00:00",
+            "PasswordLastUsed": "2024-08-18T03:12:17+00:00"
+        }
+    ]
+}
+Current date and time: 2024-08-26 01:15:01
++ echo 'print list of s3 buckets'
+print list of s3 buckets
++ aws s3 ls
++ echo 'print list of ec2 instances'
+print list of ec2 instances
++ aws ec2 describe-instances
++ jq ' .Reservations[].Instances[].InstanceId'
+"i-0a51309f2f847d773"
++ echo 'print list of lambda functions'
+print list of lambda functions
++ aws lambda list-functions
+{
+    "Functions": []
+}
++ echo 'print the list of iam users'
+print the list of iam users
++ aws iam list-users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "demo-user",
+            "UserId": "AIDA4MTWHF3VZQWLRAL7D",
+            "Arn": "arn:aws:iam::851725201131:user/demo-user",
+            "CreateDate": "2024-08-18T03:02:12+00:00",
+            "PasswordLastUsed": "2024-08-18T03:12:17+00:00"
+        }
+    ]
+}
